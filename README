@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4181
+
+This is a syntax file for the Omgrofl language:
+http://esolangs.org/wiki/omgrofl
+
+See the code on Github: https://github.com/bfontaine/omgrofl.vim
